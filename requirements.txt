@@ -6,3 +6,4 @@ httpx[http2]
 requests
 flask
 bs4
+colorama
