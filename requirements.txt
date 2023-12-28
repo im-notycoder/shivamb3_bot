@@ -5,3 +5,4 @@ lexica-api
 httpx[http2]
 requests
 flask
+bs4
